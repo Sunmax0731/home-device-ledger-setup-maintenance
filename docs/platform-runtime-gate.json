@@ -1,0 +1,11 @@
+{
+  "product": "home-device-ledger-setup-maintenance",
+  "title": "家庭内デバイス台帳・設置・保守・初期設定",
+  "domain": "IoT",
+  "ideaNo": 7,
+  "platformType": "iot-simulator-mock",
+  "expectedPublicTarget": "GitHub Release / 自宅LAN",
+  "browser": null,
+  "android": null,
+  "evidence": "dist/platform-runtime-gate-result.json"
+}
