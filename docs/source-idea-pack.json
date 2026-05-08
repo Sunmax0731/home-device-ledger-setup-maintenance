@@ -1,0 +1,38 @@
+{
+  "product": "home-device-ledger-setup-maintenance",
+  "sourceRank": {
+    "rank": 51,
+    "tier": "P2",
+    "score": 55,
+    "domain": "IoT",
+    "ideaNo": 7,
+    "ideaName": "家庭内デバイス台帳・設置・保守・初期設定",
+    "repositoryName": "home-device-ledger-setup-maintenance",
+    "publicTarget": "GitHub Release / 自宅LAN",
+    "priorityReason": "ハード操作を含めず台帳から始めれば、IoT系の前提資料として役立つ。"
+  },
+  "initialRepositoryReadme": "not-found-at-start",
+  "exactCreatedIdeaPath": "D:\\AI\\IoT\\created_idea_007_home-device-ledger-setup-maintenance",
+  "exactZipPath": "D:\\AI\\IoT\\created_idea_007_home-device-ledger-setup-maintenance\\idea_007_home-device-ledger-setup-maintenance.zip",
+  "exactCreatedIdeaPathExists": true,
+  "exactZipExists": true,
+  "fallbackSearchUsed": false,
+  "fallbackSearchResults": [],
+  "zipEntriesChecked": [
+    "metadata.json",
+    "START_PROMPT.md",
+    "README.md",
+    "01_REQUIREMENTS.md",
+    "03_DESIGN.md",
+    "04_IMPLEMENTATION_PLAN.md",
+    "05_TEST_PLAN.md",
+    "06_RELEASE_CHECKLIST.md",
+    "02_SPECIFICATION.md"
+  ],
+  "expectedZipEntriesPresent": true,
+  "metadataRepositoryName": "home-device-ledger-setup-maintenance",
+  "metadataIdea": "家庭内デバイス台帳・設置・保守・初期設定",
+  "metadataMatchesRepository": true,
+  "markdownCopyPolicy": "Formal docs are regenerated in normal Japanese from NON_PICKUP row, metadata, and domain docs. ZIP markdown is checked but not copied verbatim.",
+  "mojibakePolicy": "Generated docs are checked by code point based scanner."
+}
